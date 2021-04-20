@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on discord bots
 - 📫 How to reach me lamlucius8@gmail.com / the guy who is from hypixel#0001
+- why me,i am learning how to code rn 
